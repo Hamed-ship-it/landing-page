@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(210, 197, 223);
+    font-family: Calibri;
+    color: aliceblue;
+}
+h2 {
+    font-size: 90px;
+}
+.image {
+    background-image: url(plane/images.jpeg);
+    background-size: cover;
+    
+}
+section {
+    margin-top: 60px;
+    border-radius: 30px;
+}
+.sec1 {
+   margin-bottom: 90;
+}
+h3 {
+    font-size: 50px;
+}
+.sec2 {
+    border-radius: 30px;
+    width: 60vw;
+  max-width: 50px;
+  min-width: 300px;
+  margin: 0 auto;
+    background: transparent;
+    backdrop-filter: blur(20px);
+}
+.read {
+    background-color: #fbfbfc;
+  border: 1px solid #0a0a23;
+  color: #ffffff;
+}
+}
